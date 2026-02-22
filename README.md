@@ -1,6 +1,3 @@
-# fraud-streaming-lakehouse
-Delta Lake–based fraud detection pipeline simulating real-time transaction ingestion, feature engineering, and rule-based anomaly detection using PySpark.
-
 # Real-Time Fraud Detection Pipeline (Databricks + Delta Lake)
 
 ## Overview
